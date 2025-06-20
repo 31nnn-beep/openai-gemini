@@ -169,7 +169,7 @@ Implemented via [`inlineData`](https://ai.google.dev/api/caching#Part).
   - [x] `top_p`
   - [ ] `tools` (v1beta)
   - [ ] `tool_choice` (v1beta)
-  - [ ] `parallel_tool_calls`
+  - [ ] `parallel_tool_calls` 
 
   </details>
 - [ ] `completions`
